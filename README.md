@@ -6,7 +6,7 @@ import json
 import os
 from datetime import datetime
 
-TOKEN = "8582313463:AAEWSz_u0GdGV0IxUKSRwLoZGC86yFb_3_A"
+TOKEN = "8639504483:AAH4XCe1CFgzilB50GjJsZVF8ewsR2_s7Ww"
 ADMIN_ID = 8501119749
 CHANNELS = ["@moneey_uz", "@zayfka4738"]
 DATA_FILE = "users.json"
